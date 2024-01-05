@@ -6,7 +6,7 @@ Some useful references that help me in my daily work.
 
 ## Working with Data
 
--   [Data Operations with R and Python](https://github.com/rabadzhiyski/cheatsheets/blob/main/data_transformation/R_Python_DataExplore.pdf)
+-   [Data Operations with R and Python](https://github.com/rabadzhiyski/cheatsheets/blob/main/working_with_data/R_Python_DataExplore.pdf)
 
 ## Machine Learning
 
