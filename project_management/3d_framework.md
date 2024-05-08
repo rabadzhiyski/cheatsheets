@@ -1,16 +1,16 @@
 # The 3D Framework
 
 ## Define
- - Step1
- - Step2
- - Step3
+- What's the business context
+- What's the business challenge
+- What are we going to do about it
   
 ## Design
- - Step1
- - Step2
- - Step3
+- Step4
+- Step5
+- Step6
 
 ## Deploy
- - Step1
- - Step2
- - Step3
+- Step7
+- Step8
+- Step9
