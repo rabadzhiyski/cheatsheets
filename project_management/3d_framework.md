@@ -1,12 +1,12 @@
-# The 3D Framework
+# Business Optimization 3D Framework
 
-## Define
+## Discover
 - What's the business context
 - What's the business challenge
 - What are we going to do about it
   
 ## Design
-- Step4
+- How are we going to do it
 - Step5
 - Step6
 

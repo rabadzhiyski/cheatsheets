@@ -30,4 +30,6 @@ Some useful references that help me in my daily work.
 
 ## Shiny
 
--   Coming soon
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- [CRAN Download Analysis](https://cranlogs.r-pkg.org/badges/rhino)
+- [golemverse](https://golemverse.org/)
