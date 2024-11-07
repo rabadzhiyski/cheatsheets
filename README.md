@@ -33,3 +33,4 @@ Some useful references that help me in my daily work.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [CRAN Download Analysis](https://cranlogs.r-pkg.org/badges/rhino)
 - [golemverse](https://golemverse.org/)
+- https://github.com/nanxstats/awesome-shiny-extensions?tab=readme-ov-file#generic-theming
